@@ -1,0 +1,120 @@
+2023-03-22 13:19:17,836 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:19:17,879 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:20:15,852 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:20:15,872 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:22:50,207 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:22:50,237 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:25:09,652 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:25:09,677 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:25:45,949 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:25:45,984 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:32:05,128 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:32:05,153 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:36:04,420 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:36:04,462 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:41:36,393 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:41:36,429 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:44:37,484 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:44:37,522 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:45:32,417 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:45:32,436 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:46:03,126 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:46:03,152 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:46:50,918 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:46:50,938 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:48:02,106 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:48:02,128 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:49:48,418 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:49:48,438 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:52:39,515 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:52:39,539 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:53:19,158 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:53:19,182 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:53:19,377 [1] INFO UserDbRepository - Exiting findAll with value System.Collections.Generic.List`1[baschet.domain.User]
+2023-03-22 13:53:19,381 [1] INFO UserDbRepository - Entering findOne with value 2
+2023-03-22 13:53:19,389 [1] INFO UserDbRepository - Exiting findOne with value User{ username='ionut.mihalcea', password='parola123' }
+2023-03-22 13:55:05,732 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:55:05,758 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:55:05,911 [1] INFO UserDbRepository - Exiting findAll with value System.Collections.Generic.List`1[baschet.domain.User]
+2023-03-22 13:55:05,916 [1] INFO UserDbRepository - Entering findOne with value 2
+2023-03-22 13:55:05,924 [1] INFO UserDbRepository - Exiting findOne with value User{ username='ionut.mihalcea', password='parola123' }
+2023-03-22 13:55:37,599 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-22 13:55:37,619 [1] INFO UserDbRepository - Entering findAll
+2023-03-22 13:55:37,805 [1] INFO UserDbRepository - Exiting findAll with value System.Collections.Generic.List`1[baschet.domain.User]
+2023-03-22 13:55:37,809 [1] INFO UserDbRepository - Entering findOne with value 2
+2023-03-22 13:55:37,817 [1] INFO UserDbRepository - Exiting findOne with value User{ username='ionut.mihalcea', password='parola123' }
+2023-03-28 12:31:21,649 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-28 12:31:21,677 [1] INFO UserDbRepository - Entering findAll
+2023-03-28 12:31:22,144 [1] INFO UserDbRepository - Exiting findAll with value System.Collections.Generic.List`1[baschet.domain.User]
+2023-03-28 12:31:22,146 [1] INFO UserDbRepository - Entering findOne with value 2
+2023-03-28 12:31:22,154 [1] INFO UserDbRepository - Exiting findOne with value User{ username='ionut.mihalcea', password='parola123' }
+2023-03-28 12:33:23,244 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-28 12:33:23,267 [1] INFO UserDbRepository - Entering findAll
+2023-03-28 12:33:23,495 [1] INFO UserDbRepository - Exiting findAll with value System.Collections.Generic.List`1[baschet.domain.User]
+2023-03-28 12:33:23,498 [1] INFO UserDbRepository - Entering findOne with value 2
+2023-03-28 12:33:23,506 [1] INFO UserDbRepository - Exiting findOne with value User{ username='ionut.mihalcea', password='parola123' }
+2023-03-28 12:36:10,738 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-28 12:36:10,797 [1] INFO UserDbRepository - Entering findAll
+2023-03-28 12:36:11,555 [1] INFO UserDbRepository - Exiting findAll with value System.Collections.Generic.List`1[baschet.domain.User]
+2023-03-28 12:36:11,558 [1] INFO UserDbRepository - Entering findOne with value 2
+2023-03-28 12:36:11,576 [1] INFO UserDbRepository - Exiting findOne with value User{ username='ionut.mihalcea', password='parola123' }
+2023-03-28 12:36:51,393 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-28 12:36:51,413 [1] INFO UserDbRepository - Entering findAll
+2023-03-28 12:36:51,578 [1] INFO UserDbRepository - Exiting findAll with value System.Collections.Generic.List`1[baschet.domain.User]
+2023-03-28 12:36:51,581 [1] INFO UserDbRepository - Entering findOne with value 2
+2023-03-28 12:36:51,588 [1] INFO UserDbRepository - Exiting findOne with value User{ username='ionut.mihalcea', password='parola123' }
+2023-03-28 12:38:46,794 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-28 12:38:46,812 [1] INFO UserDbRepository - Entering findAll
+2023-03-28 12:38:46,998 [1] INFO UserDbRepository - Exiting findAll with value System.Collections.Generic.List`1[baschet.domain.User]
+2023-03-28 12:38:47,000 [1] INFO UserDbRepository - Entering findOne with value 2
+2023-03-28 12:38:47,006 [1] INFO UserDbRepository - Exiting findOne with value User{ username='ionut.mihalcea', password='parola123' }
+2023-03-28 12:38:47,007 [1] INFO UserDbRepository - Entering delete with value 2
+2023-03-28 12:38:47,023 [1] INFO UserDbRepository - Exiting delete with value {0}
+2023-03-28 12:38:47,025 [1] INFO UserDbRepository - Entering add
+2023-03-28 12:38:47,032 [1] INFO UserDbRepository - Entering findAll
+2023-03-28 12:48:01,174 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-28 12:48:01,194 [1] INFO UserDbRepository - Entering findAll
+2023-03-28 12:48:01,359 [1] INFO UserDbRepository - Exiting findAll with value System.Collections.Generic.List`1[baschet.domain.User]
+2023-03-28 12:48:01,361 [1] INFO UserDbRepository - Entering findOne with value 2
+2023-03-28 12:48:01,366 [1] INFO UserDbRepository - Exiting findOne with value User{ username='user2', password='parola1212' }
+2023-03-28 12:48:01,368 [1] INFO UserDbRepository - Entering add
+2023-03-28 12:48:01,378 [1] INFO UserDbRepository - Entering delete with value 2
+2023-03-28 12:48:01,382 [1] INFO UserDbRepository - Exiting delete with value {0}
+2023-03-28 12:48:01,384 [1] INFO UserDbRepository - Entering findAll
+2023-03-28 12:48:01,384 [1] INFO UserDbRepository - Exiting findAll with value System.Collections.Generic.List`1[baschet.domain.User]
+2023-03-29 01:17:12,132 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 01:17:12,187 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 01:22:31,266 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 01:22:31,307 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 01:22:53,176 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 01:22:53,200 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 01:23:38,522 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 01:23:38,545 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 01:41:58,816 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 01:41:58,858 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 01:42:54,683 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 01:42:54,706 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 01:53:29,190 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 01:53:29,211 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 01:54:26,424 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 01:54:26,443 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 02:03:36,187 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 02:03:36,216 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 02:03:36,438 [1] INFO UserDbRepository - Exiting findAll with value System.Collections.Generic.List`1[baschet.domain.User]
+2023-03-29 02:03:36,440 [1] INFO UserDbRepository - Entering findOne with value 2
+2023-03-29 02:03:36,450 [1] INFO UserDbRepository - Exiting findOne with value User{ username='ddd', password='ddd' }
+2023-03-29 02:03:36,451 [1] INFO UserDbRepository - Entering add
+2023-03-29 02:03:36,468 [1] INFO UserDbRepository - Entering delete with value 2
+2023-03-29 02:03:36,473 [1] INFO UserDbRepository - Exiting delete with value {0}
+2023-03-29 02:03:36,473 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 02:03:36,473 [1] INFO UserDbRepository - Exiting findAll with value System.Collections.Generic.List`1[baschet.domain.User]
+2023-03-29 02:06:00,612 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 02:06:00,661 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 02:06:46,762 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 02:06:46,787 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 02:07:07,777 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 02:07:07,798 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 02:08:14,252 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 02:08:14,277 [1] INFO UserDbRepository - Entering findAll
+2023-03-29 02:11:01,829 [1] INFO UserDbRepository - Creating UserDbRepository 
+2023-03-29 02:11:01,850 [1] INFO UserDbRepository - Entering findAll

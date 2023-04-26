@@ -123,6 +123,32 @@ namespace baschet.repo
 			throw new NotImplementedException();
 		}
 
+		public bool CheckifUserExists(string username, string password)
+		{
+			IDbConnection con = DBUtils.getConnection(props);
+			using (var comm = con.CreateCommand())
+			{
+				comm.CommandText = "select id,username,password from Users where username=@username and password=@password";
+				IDbDataParameter paramUsername = comm.CreateParameter();
+				paramUsername.ParameterName = "@username";
+				paramUsername.Value = username;
+				comm.Parameters.Add(paramUsername);
+				IDbDataParameter paramPassword = comm.CreateParameter();
+				paramPassword.ParameterName = "@password";
+				paramPassword.Value = password;
+				comm.Parameters.Add(paramPassword);
+				using (var dataR = comm.ExecuteReader())
+				{
+					if (dataR.Read())
+					{
+						return true;
+					}
+				}
+			}
+			return false;
+		}
+
+
 		// public IEnumerable<SortingTask> findAll()
 		// {
 		// 	IDbConnection con = DBUtils.getConnection(props);
@@ -202,4 +228,6 @@ namespace baschet.repo
 		// 	}
 		// }
 	}
+	
+	
 }

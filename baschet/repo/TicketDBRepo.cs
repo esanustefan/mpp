@@ -8,7 +8,7 @@ using log4net;
 
 namespace baschet.repo;
 
-public class TicketDBRepo: IRepository<int, Ticket>
+public class TicketDBRepo: TicketRepository
 {
     private static readonly ILog log = LogManager.GetLogger("TicketDbRepository");
 
